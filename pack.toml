@@ -1,0 +1,13 @@
+name = "Qualia Quartz'z Quizzical Quandary"
+author = "Qualia"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4beb1329918695c402090a6db72fe928495ce55420d32ba7d8562f916c5592f5"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.105"

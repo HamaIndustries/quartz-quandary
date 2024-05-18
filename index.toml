@@ -96,8 +96,18 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "8a82c700bb8d6b7425cdb9935049c0833e21f3a26e476c66e525b6024da4e24d"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "fd6158a6c5bd89eb4bb84d6b231f64b59d2692518cea43fa25fe41913c2e63b9"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
+hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
 
 [[files]]
@@ -151,6 +161,11 @@ hash = "393446ca4cc4d1f126fd1ed01961775bfe2f046e272d380cd6310e7c6e698f5b"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
@@ -191,6 +206,11 @@ hash = "20b9ccddbc62a654c50431d6eb109c656c874b634cce32968faf04710cfdf1b5"
 metafile = true
 
 [[files]]
+file = "mods/load-my-resources.pw.toml"
+hash = "8499d4b662c34a17d9531785e6ef1f279dbbc84cb60b102f5fbbd306bbbfceae"
+metafile = true
+
+[[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
 hash = "f09156e953a90aa326b2b8323fce02456768e7d37a315271adf17a28a0d65989"
 metafile = true
@@ -216,8 +236,18 @@ hash = "d58b07f4e0f2f9d63f81e9615775870032cf2248ec42b7267dbd5bd956c8c660"
 metafile = true
 
 [[files]]
+file = "mods/mutil.pw.toml"
+hash = "c730f5a36bad3b8f4ffd4fdb9d1c87e5c84af61c0c5f53df5ee3df2ba068dfa1"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
+metafile = true
+
+[[files]]
+file = "mods/nekos-enchanted-books.pw.toml"
+hash = "122054d77a8136a7bcbaaed48dbfb90cdcf14ed4e7cb11c668dd76aee37dc890"
 metafile = true
 
 [[files]]
@@ -263,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "78264cc5097e26b3c5b34fd1b01754182b4543602ea99079a5d3fa4e69a7e579"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "7c3c1376dbd0289eb52b66817a2cc06e0dcb2b08f60e437a19be9f0495ae8b1e"
 metafile = true
 
 [[files]]

@@ -201,6 +201,11 @@ hash = "4011bc8af206abb35352bf96f76338df3a1fca0b32b97b230ad6696c1197e4d4"
 metafile = true
 
 [[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "db40389c09775cc7ac7837ca14fa9ebfd8e6ed073918a451e758c3fe3a67d9f7"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "13d28cbb0b6e5d8b50ed246a37cd80422dfa2522e4520eded7f9618228227535"
 metafile = true
@@ -276,8 +281,8 @@ hash = "05bf4c054b1346db1696d76ebbbea07fc30668251a3c78905a98b3045df4dbf7"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "08e74fff7c386b2a39d936d13256e14344c9b79e908db7acd73a89ad0c5fdf4a"
+file = "mods/xaeros-world-map.pw.toml"
+hash = "9da846cea3a56016041d5e860db44a72a49ad7a931f0ee0eb42c2884ac14598a"
 metafile = true
 
 [[files]]

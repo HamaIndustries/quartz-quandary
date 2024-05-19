@@ -1,6 +1,54 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/alexsmobs/crimson_mosquito_spawns.json"
+hash = "3bbb9d1bf3264bfa463007f5fcbf1979aaf37ce249eabfdb9f6572cc5a20e120"
+
+[[files]]
+file = "config/alexsmobs/fly_spawns.json"
+hash = "0d8826c81c9ef568036fa0121d8651a5f1f7a7541a6f1e4a45b7db6611ba3fa4"
+
+[[files]]
+file = "config/openloader/advanced_options.json"
+hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
+
+[[files]]
+file = "config/openloader/data/VanillaTweaks_d461625_UNZIP_ME.zip"
+hash = "b3bef6fffc54f528445e5901ab9eec08d0e2bbd1db8ea19c83cd375194c8d780"
+
+[[files]]
+file = "config/openloader/data/VanillaTweaks_d589507_UNZIP_ME.zip"
+hash = "9828d77fac6b4e9a87edf02dd661e9703f7e91961b405e1233fe71a2bc71cd37"
+
+[[files]]
+file = "config/openloader/data/VanillaTweaks_d773382_UNZIP_ME.zip"
+hash = "7f7f554033d9e53f0c631abca8bd8c3686a7f6c156940b8f4ba0e5db2c7e0a20"
+
+[[files]]
+file = "config/openloader/data/VanillaTweaks_d784807_UNZIP_ME.zip"
+hash = "6b6804a3775fc486ef8762a4a95725897a45dabf0d96722808c2eb0e4f257306"
+
+[[files]]
+file = "config/openloader/data/VanillaTweaks_d917318_UNZIP_ME.zip"
+hash = "f4b6f09f4381dfabb7feaec5bef179bfb491019911e5ff34a56cc46e05602626"
+
+[[files]]
+file = "config/openloader/data/quartz/data/embers/forge/biome_modifier/add_golem_spawn.json"
+hash = "fa623e490e3576bad6cd211e1727a963064231274a6b353413aea09601106a08"
+
+[[files]]
+file = "config/openloader/data/quartz/pack.mcmeta"
+hash = "9e4b7d7ba25922d25e31dc8f6002356b6194c454ad030d8fcf1c3c0c16ebf14b"
+
+[[files]]
+file = "config/openloader/data/quartz/pack.png"
+hash = "1452df747f8973ff95da5dd576dc90e44248920e046df6ce663a45aeaef027fc"
+
+[[files]]
+file = "config/openloader/resources/ImprovedMoss1.20x.zip"
+hash = "c716e8ca1427d460c939bf25370598126b00985e6387ad3fb1a9811ab48a5c6c"
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "c7ef8f8629620ae3d9d2da71aaf440624c40157a80c0eda4298c0aa60b7c76c0"
 metafile = true

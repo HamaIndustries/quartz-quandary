@@ -1,0 +1,34 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:and",
+    "values": [
+      {
+        "type": "forge:or",
+        "values": [
+          "terralith:volcanic_peaks",
+		  "terralith:volcanic_crater",
+		  "biomesoplenty:volcano",
+		  "biomesoplenty:volcanic_plains"
+        ]
+      },
+      {
+        "type": "forge:not",
+        "value": {
+          "type": "forge:or",
+          "values": [
+            "#forge:is_mushroom",
+            "minecraft:deep_dark",
+            "#forge:no_default_monsters"
+          ]
+        }
+      }
+    ]
+  },
+  "spawners": {
+    "type": "embers:ancient_golem",
+    "maxCount": 1,
+    "minCount": 1,
+    "weight": 15
+  }
+}

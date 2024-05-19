@@ -251,6 +251,11 @@ hash = "122054d77a8136a7bcbaaed48dbfb90cdcf14ed4e7cb11c668dd76aee37dc890"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer-forge.pw.toml"
+hash = "7fe39c6ca31974b4e57e4b08a174beb959933767623c70893064a282ae29a859"
+metafile = true
+
+[[files]]
 file = "mods/personality.pw.toml"
 hash = "f463d5b6ddc6bbed508bfad219121d14c6d596ec54c9c7983f0618367be2dbf9"
 metafile = true

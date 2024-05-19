@@ -13,24 +13,20 @@ file = "config/openloader/advanced_options.json"
 hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
 [[files]]
-file = "config/openloader/data/VanillaTweaks_d461625_UNZIP_ME.zip"
-hash = "b3bef6fffc54f528445e5901ab9eec08d0e2bbd1db8ea19c83cd375194c8d780"
+file = "config/openloader/data/anti enderman grief v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "9f2ee6920f941b6a4e6cb86bcbc30e679fe74a6cd61e295d8cf033fffd806400"
 
 [[files]]
-file = "config/openloader/data/VanillaTweaks_d589507_UNZIP_ME.zip"
-hash = "9828d77fac6b4e9a87edf02dd661e9703f7e91961b405e1233fe71a2bc71cd37"
+file = "config/openloader/data/more mob heads v2.12.4 (MC 1.20-1.20.4).zip"
+hash = "22875fcf9a482bced058cc82d7c34175f6de595796ee470d39686179c1fd6485"
 
 [[files]]
-file = "config/openloader/data/VanillaTweaks_d773382_UNZIP_ME.zip"
-hash = "7f7f554033d9e53f0c631abca8bd8c3686a7f6c156940b8f4ba0e5db2c7e0a20"
+file = "config/openloader/data/multiplayer sleep v2.6.6 (MC 1.20-1.20.4).zip"
+hash = "bc8a2f1b2df61e8104f2a012bad811f783b520305429be06acbb7d5b42390dda"
 
 [[files]]
-file = "config/openloader/data/VanillaTweaks_d784807_UNZIP_ME.zip"
-hash = "6b6804a3775fc486ef8762a4a95725897a45dabf0d96722808c2eb0e4f257306"
-
-[[files]]
-file = "config/openloader/data/VanillaTweaks_d917318_UNZIP_ME.zip"
-hash = "f4b6f09f4381dfabb7feaec5bef179bfb491019911e5ff34a56cc46e05602626"
+file = "config/openloader/data/player head drops v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "73c5bdbdc45dec651d32ad990d354914f6f3710cdd14899ba0776d425732a05a"
 
 [[files]]
 file = "config/openloader/data/quartz/data/embers/forge/biome_modifier/add_golem_spawn.json"
@@ -43,6 +39,10 @@ hash = "9e4b7d7ba25922d25e31dc8f6002356b6194c454ad030d8fcf1c3c0c16ebf14b"
 [[files]]
 file = "config/openloader/data/quartz/pack.png"
 hash = "1452df747f8973ff95da5dd576dc90e44248920e046df6ce663a45aeaef027fc"
+
+[[files]]
+file = "config/openloader/data/wandering trades v1.7.3 (MC 1.20-1.20.4).zip"
+hash = "e1a10579772adfa89a6e8b10694955e0ffd5f9086b35edee0e6884ce14312bca"
 
 [[files]]
 file = "config/openloader/resources/ImprovedMoss1.20x.zip"

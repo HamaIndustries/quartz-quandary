@@ -206,11 +206,6 @@ hash = "20b9ccddbc62a654c50431d6eb109c656c874b634cce32968faf04710cfdf1b5"
 metafile = true
 
 [[files]]
-file = "mods/load-my-resources.pw.toml"
-hash = "8499d4b662c34a17d9531785e6ef1f279dbbc84cb60b102f5fbbd306bbbfceae"
-metafile = true
-
-[[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
 hash = "f09156e953a90aa326b2b8323fce02456768e7d37a315271adf17a28a0d65989"
 metafile = true
@@ -253,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer-forge.pw.toml"
 hash = "7fe39c6ca31974b4e57e4b08a174beb959933767623c70893064a282ae29a859"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "c933433f2eded417ee7d36697935eb5f6f3ef9cddb4029a85b315b87cad4b910"
 metafile = true
 
 [[files]]

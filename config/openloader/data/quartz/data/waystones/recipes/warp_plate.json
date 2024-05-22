@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "waystones:warp_plate"
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SWS",
+    "WFW",
+    "SWS"
+  ],
+  "key": {
+    "W": {
+      "item": "waystones:warp_dust"
+    },
+    "F": {
+      "item": "minecraft:bedrock"
+    },
+    "S": {
+      "item": "minecraft:stone_bricks"
+    }
+  }
+}

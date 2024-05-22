@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/alexsmobs/crimson_mosquito_spawns.json"
-hash = "3bbb9d1bf3264bfa463007f5fcbf1979aaf37ce249eabfdb9f6572cc5a20e120"
+hash = "0a936b99b62be41bd29c4d828e87facc40a991356aef94eeff89b87e520ec3e5"
 
 [[files]]
 file = "config/alexsmobs/fly_spawns.json"
-hash = "0d8826c81c9ef568036fa0121d8651a5f1f7a7541a6f1e4a45b7db6611ba3fa4"
+hash = "0a936b99b62be41bd29c4d828e87facc40a991356aef94eeff89b87e520ec3e5"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -33,6 +33,130 @@ file = "config/openloader/data/quartz/data/embers/forge/biome_modifier/add_golem
 hash = "fa623e490e3576bad6cd211e1727a963064231274a6b353413aea09601106a08"
 
 [[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/attuned_shard.json"
+hash = "c52e9c2d6bf543eaa817cbaa51a1040aacc5b52da9a5ab544c80346157e59e07"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/black_sharestone.json"
+hash = "3128abb0b073696e573f43fd6449480f63f3dfa4a2a9c2eb5bc116239667f070"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/blue_sharestone.json"
+hash = "271a55a6f2ec65a0989fe899aee4b9e48bcbaa74d14c5e008d17fecb23953f89"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/bound_scroll.json"
+hash = "7f91a156ad0106ee43eaa05cf8f1598db1273a8975e72599e1c0036a7e52ae51"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/brown_sharestone.json"
+hash = "7564f766aa30caa50a743c3cbf856b9172d857f74723c1ea8407299beceec401"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/clear_sharestone.json"
+hash = "284175cea82fc229982b9dbdc7c1f1bb2d37d27b5ea58fc67e6429891129ae4c"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/crumbling_attuned_shard.json"
+hash = "bd5583f3729dce3cc7b532958c1ae700a92836429adf8f838574ba5875219bb7"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/cyan_sharestone.json"
+hash = "f673a267d23247fb7c28b8d9284b0d309ac15f1e1e6b68f11afc654c995e7b80"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/gray_sharestone.json"
+hash = "1c7cd59c20da97d5dbb0819927768aa6be985e672f8680f3b2ee78b8a6b2209d"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/green_sharestone.json"
+hash = "625cff307f949f44d11b0a0449a1a1e75de5b414366845f333f522229b322d3b"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/light_blue_sharestone.json"
+hash = "bcd305422ac7d64368626be40d9d7f2a41c722661880f7411d99100ae1426f42"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/light_gray_sharestone.json"
+hash = "352489eb3eda4b0ead310d0d7758a4705c9a16aadd37ad5acf8328e49908558b"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/lime_sharestone.json"
+hash = "0d5866f29c023872ebaa2e74532f170a2da88c3ccce9a1a73805d2ba8596101c"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/magenta_sharestone.json"
+hash = "7d8b8944b3c071aaa4bb86a64ed0122da64b6fa67f734ab0a9536ee804e27c1b"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/mossy_waystone.json"
+hash = "444378e8d6af000a7620b3ad2b4d4758be54b6cdbd9624a6ca0a74ec44ef2bbc"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/mossy_waystone_convert.json"
+hash = "85cd997f0340d59742063fef06ecf896870ee76e051a0e44e985ffbb06542e29"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/orange_sharestone.json"
+hash = "271c1770d168e20be04fed2b73ad95c7eadb8fc073095aa46c195561faf1c6ed"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/pink_sharestone.json"
+hash = "692278036ff980ea4a66fea5852015476bc92093ed0c32e85bf9c2b1ded60704"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/portstone.json"
+hash = "b512ec2e3f05b57b7a277b876b1631e27d7dbc6916651256cd516bc5cff8eb1a"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/purple_sharestone.json"
+hash = "a1d9b468cfaf823d54d39cf0a0700f90079aa30544b5364b3d5c3e73b9fcf971"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/red_sharestone.json"
+hash = "0358908a8cc9e30ba1501c48837baf2185c5c23a8b58c4ca6b75e1546bf73208"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/return_scroll.json"
+hash = "da7fbd4af836e04f62e800ab23a9285d88b6b6b3682068d1fdec5bd49a69c033"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/sandy_waystone.json"
+hash = "f64644f559598a00c3f04a14ef21c0899a239284da3f2bf786bd37813285fe6d"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/sharestone.json"
+hash = "0c63ee683e58a63abb8810c10eec182456f2203eb694b3c54c9cfabfc90e1293"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/warp_dust.json"
+hash = "fb3e6be7df8491f194a88ab999db770eacea310dc7fcbdcf7eea18989d87ec38"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/warp_plate.json"
+hash = "88db0decccbe284a49c6efdff3c984f8d367e50395dcc1fe4d471ccb0bee3e0e"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/warp_scroll.json"
+hash = "5ee3e5da5d067e30d0be363e5009a9371193436fed2f5257ef682beb210da583"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/warp_stone.json"
+hash = "17d456e5be8fc445d6f4509e9a8820fddd2cca4b984806157fae2e086a6f2b06"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/waystone.json"
+hash = "68a375060cd5b01f24146c8a4f5626755346b87a830a6910b147f4598cb06ff7"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/white_sharestone.json"
+hash = "8991f4cf07688bc774ed6e221002818254c459f509d7667196d75d65c44c8337"
+
+[[files]]
+file = "config/openloader/data/quartz/data/waystones/recipes/yellow_sharestone.json"
+hash = "54642c3ec4c0a01c8671871138656fd625fbd2ed42da18af7c632ba3a1ef161d"
+
+[[files]]
 file = "config/openloader/data/quartz/pack.mcmeta"
 hash = "9e4b7d7ba25922d25e31dc8f6002356b6194c454ad030d8fcf1c3c0c16ebf14b"
 
@@ -47,6 +171,10 @@ hash = "e1a10579772adfa89a6e8b10694955e0ffd5f9086b35edee0e6884ce14312bca"
 [[files]]
 file = "config/openloader/resources/ImprovedMoss1.20x.zip"
 hash = "c716e8ca1427d460c939bf25370598126b00985e6387ad3fb1a9811ab48a5c6c"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "b8bfa74657e8363a0f85c87456ce3dbbee07c224e19cebb23527755a35e388ee"
 
 [[files]]
 file = "mods/alexs-mobs.pw.toml"

@@ -528,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "mods/tetra-extras.pw.toml"
-hash = "6c13c3df782b0716f78c1844e76c5f465f60d87f40e10505801e6b388ece4c17"
+hash = "212fc263606971eefb70bbef4f56c7108bfeaf25df6d48a7ad33fd91a5b5c8bb"
 metafile = true
 
 [[files]]

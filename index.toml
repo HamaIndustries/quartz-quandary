@@ -34,7 +34,7 @@ hash = "fa623e490e3576bad6cd211e1727a963064231274a6b353413aea09601106a08"
 
 [[files]]
 file = "config/openloader/data/quartz/data/embers/recipes/alchemy/wanderlite_crystal.json"
-hash = "a0086953c217ef63f0f2486d5bcc7a3dde5ed010702c231ade8f1ad54663c0f5"
+hash = "60f7ed3242b0eb16226720af8d5fd3762211e139502cd7e1e31bf51c4bc859a0"
 
 [[files]]
 file = "config/openloader/data/quartz/data/vs_clockwork/forge/biome_modifier/wanderlite_end.json"
@@ -199,6 +199,11 @@ hash = "9f5bb78e31415132d46b075d480425d18bf68ab1aab1566b616a458baf1be219"
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "c7ef8f8629620ae3d9d2da71aaf440624c40157a80c0eda4298c0aa60b7c76c0"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "59ad7e4771cb7b66f9477686a272b7d587e42c7ca869f0bf5314def6a50d6bc2"
 metafile = true
 
 [[files]]
@@ -399,11 +404,6 @@ metafile = true
 [[files]]
 file = "mods/enlightend.pw.toml"
 hash = "7e5650077be558af414ad2248b9f1881fdd072ef822293846c1d2f0a85082eb3"
-metafile = true
-
-[[files]]
-file = "mods/eureka.pw.toml"
-hash = "4e7359568382843485cb04c9efffe03d9abf3cb287a8bc067e498429c72fba19"
 metafile = true
 
 [[files]]

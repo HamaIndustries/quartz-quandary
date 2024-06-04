@@ -46,11 +46,11 @@ hash = "ae732a257f6a03c48bf8a2bdab3df8dde6c62608375ec81fc520a97b15a10585"
 
 [[files]]
 file = "config/openloader/data/quartz/data/vs_clockwork/worldgen/configured_feature/ore_wanderlite.json"
-hash = "7b89b83551ff94293ae093b25ac820524cac2e2e37da37047a4a8ed2132981d9"
+hash = "6172d95a6e4fd826f33f6fcf4706e76137c1fb62ab35ae20b79794d21ebfd407"
 
 [[files]]
 file = "config/openloader/data/quartz/data/vs_clockwork/worldgen/placed_feature/ore_wanderlite.json"
-hash = "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede"
+hash = "f9b434d896b05d2fa5aa959830963281b433c9ba3c3c56a5d8c09bd5a752b1b2"
 
 [[files]]
 file = "config/openloader/data/quartz/data/waystones/recipes/attuned_shard.json"

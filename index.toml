@@ -367,6 +367,11 @@ hash = "7e5650077be558af414ad2248b9f1881fdd072ef822293846c1d2f0a85082eb3"
 metafile = true
 
 [[files]]
+file = "mods/eureka.pw.toml"
+hash = "4e7359568382843485cb04c9efffe03d9abf3cb287a8bc067e498429c72fba19"
+metafile = true
+
+[[files]]
 file = "mods/everythingcopper.pw.toml"
 hash = "393446ca4cc4d1f126fd1ed01961775bfe2f046e272d380cd6310e7c6e698f5b"
 metafile = true

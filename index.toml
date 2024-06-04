@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/alexsmobs/crimson_mosquito_spawns.json"
-hash = "0a936b99b62be41bd29c4d828e87facc40a991356aef94eeff89b87e520ec3e5"
+hash = "aab34a584c6014c29d30c034134983f4f9a251c3569a1790a640184b285c33c0"
 
 [[files]]
 file = "config/alexsmobs/fly_spawns.json"
-hash = "0a936b99b62be41bd29c4d828e87facc40a991356aef94eeff89b87e520ec3e5"
+hash = "aab34a584c6014c29d30c034134983f4f9a251c3569a1790a640184b285c33c0"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -174,7 +174,7 @@ hash = "c716e8ca1427d460c939bf25370598126b00985e6387ad3fb1a9811ab48a5c6c"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "b8bfa74657e8363a0f85c87456ce3dbbee07c224e19cebb23527755a35e388ee"
+hash = "9f5bb78e31415132d46b075d480425d18bf68ab1aab1566b616a458baf1be219"
 
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/mutil.pw.toml"
-hash = "c730f5a36bad3b8f4ffd4fdb9d1c87e5c84af61c0c5f53df5ee3df2ba068dfa1"
+hash = "4e0ebdb97b93b545a2ab458e7aea179a32564234a7828fe4ecbee415d68916a2"
 metafile = true
 
 [[files]]
@@ -527,8 +527,18 @@ hash = "78264cc5097e26b3c5b34fd1b01754182b4543602ea99079a5d3fa4e69a7e579"
 metafile = true
 
 [[files]]
+file = "mods/tetra-extras.pw.toml"
+hash = "6c13c3df782b0716f78c1844e76c5f465f60d87f40e10505801e6b388ece4c17"
+metafile = true
+
+[[files]]
 file = "mods/tetra.pw.toml"
-hash = "7c3c1376dbd0289eb52b66817a2cc06e0dcb2b08f60e437a19be9f0495ae8b1e"
+hash = "7cd5ba3f6e15a5bb367a6e7e3549f2f89b86e8936fc1e3de959ce47068abd991"
+metafile = true
+
+[[files]]
+file = "mods/tetracelium.pw.toml"
+hash = "8164fd27023d823cf34ddee1850c0e75bc6d9d178cf58bb93576ce42588e98e8"
 metafile = true
 
 [[files]]

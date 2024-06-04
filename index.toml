@@ -257,6 +257,11 @@ hash = "72b57b56bd7676d2450009417145c7faa432498d323fa22f0e5bb0b272858d7a"
 metafile = true
 
 [[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "a119c6e5a47fab7af4aabfb2248fbf2bf22a53548ab21f24335333ac385c641f"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "0c6310af6351d8dff9b9f698ec477e5fdba8702626948101b032d54a666e82bc"
 metafile = true
@@ -409,6 +414,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "18664206d2e4b28db788c4a6eb1a94e3d34b3644ff6288b4cf2d12aa7b3052ee"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
 metafile = true
 
 [[files]]

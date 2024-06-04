@@ -332,6 +332,11 @@ hash = "740e8bc5f6560bebe40b27bcc9fb6bc1adc2dbd489338cc70b00176427b3b5a3"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "9a47ae3e125db2d8222de6b8e145678687201e500f9b788b9fd014619db091c3"
+metafile = true
+
+[[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "ccdd24b949ad8647f0963333614c46544cb7fa8d76deb3d6ab9887b680d03506"
 metafile = true

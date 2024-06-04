@@ -33,6 +33,26 @@ file = "config/openloader/data/quartz/data/embers/forge/biome_modifier/add_golem
 hash = "fa623e490e3576bad6cd211e1727a963064231274a6b353413aea09601106a08"
 
 [[files]]
+file = "config/openloader/data/quartz/data/embers/recipes/alchemy/wanderlite_crystel.json"
+hash = "8389a143701fc6ff080a4fffda4708dd1902148dd7a3205c9096a0ffd5a35ef3"
+
+[[files]]
+file = "config/openloader/data/quartz/data/vs_clockwork/forge/biome_modifier/wanderlite_end.json"
+hash = "a666cfb7ba23d415cd3192b79905ea5daa0f93f3302bfbd623400a13b618dbc7"
+
+[[files]]
+file = "config/openloader/data/quartz/data/vs_clockwork/forge/biome_modifier/wanderlite_overworld.json"
+hash = "ae732a257f6a03c48bf8a2bdab3df8dde6c62608375ec81fc520a97b15a10585"
+
+[[files]]
+file = "config/openloader/data/quartz/data/vs_clockwork/worldgen/configured_feature/ore_wanderlite.json"
+hash = "7b89b83551ff94293ae093b25ac820524cac2e2e37da37047a4a8ed2132981d9"
+
+[[files]]
+file = "config/openloader/data/quartz/data/vs_clockwork/worldgen/placed_feature/ore_wanderlite.json"
+hash = "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede"
+
+[[files]]
 file = "config/openloader/data/quartz/data/waystones/recipes/attuned_shard.json"
 hash = "c52e9c2d6bf543eaa817cbaa51a1040aacc5b52da9a5ab544c80346157e59e07"
 

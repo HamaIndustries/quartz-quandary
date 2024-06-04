@@ -297,6 +297,11 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "c6d60d0468773af6b5c39a68a3e9384367fafad9ce6ca13f3495d0f9735649a4"
+metafile = true
+
+[[files]]
 file = "mods/create-clockwork.pw.toml"
 hash = "94714097a323468448daf3ad97cbec4a8e145ddc6e58081b9fcb0ca53be71df1"
 metafile = true

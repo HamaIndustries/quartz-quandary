@@ -33,8 +33,8 @@ file = "config/openloader/data/quartz/data/embers/forge/biome_modifier/add_golem
 hash = "fa623e490e3576bad6cd211e1727a963064231274a6b353413aea09601106a08"
 
 [[files]]
-file = "config/openloader/data/quartz/data/embers/recipes/alchemy/wanderlite_crystel.json"
-hash = "8389a143701fc6ff080a4fffda4708dd1902148dd7a3205c9096a0ffd5a35ef3"
+file = "config/openloader/data/quartz/data/embers/recipes/alchemy/wanderlite_crystal.json"
+hash = "a0086953c217ef63f0f2486d5bcc7a3dde5ed010702c231ade8f1ad54663c0f5"
 
 [[files]]
 file = "config/openloader/data/quartz/data/vs_clockwork/forge/biome_modifier/wanderlite_end.json"

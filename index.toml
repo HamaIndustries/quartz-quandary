@@ -29,6 +29,22 @@ file = "config/openloader/data/player head drops v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "73c5bdbdc45dec651d32ad990d354914f6f3710cdd14899ba0776d425732a05a"
 
 [[files]]
+file = "config/openloader/data/quartz/data/eidolon/worldgen/configured_feature/lead_ore.json"
+hash = "ab599d1a535ec800907ac0a8ee012fff313b96cde74ac1552c2bcfa9110a0842"
+
+[[files]]
+file = "config/openloader/data/quartz/data/eidolon/worldgen/configured_feature/silver_ore.json"
+hash = "581af0f0d50c3168cf39d331853ff94a99da5251b885d182974ad05b43e107f0"
+
+[[files]]
+file = "config/openloader/data/quartz/data/eidolon/worldgen/placed_feature/lead_ore_placed.json"
+hash = "ebf3b3d3f9df4cb531443ce4981492d8bc4dfc59ca24964f1652ef647737daed"
+
+[[files]]
+file = "config/openloader/data/quartz/data/eidolon/worldgen/placed_feature/silver_ore_placed.json"
+hash = "3fe411d06d79b655f38abedb0c4b478322c3fe3be04f359d35bb3a7b286b20ad"
+
+[[files]]
 file = "config/openloader/data/quartz/data/embers/forge/biome_modifier/add_golem_spawn.json"
 hash = "fa623e490e3576bad6cd211e1727a963064231274a6b353413aea09601106a08"
 
@@ -47,10 +63,6 @@ hash = "ae732a257f6a03c48bf8a2bdab3df8dde6c62608375ec81fc520a97b15a10585"
 [[files]]
 file = "config/openloader/data/quartz/data/vs_clockwork/worldgen/configured_feature/ore_wanderlite.json"
 hash = "6172d95a6e4fd826f33f6fcf4706e76137c1fb62ab35ae20b79794d21ebfd407"
-
-[[files]]
-file = "config/openloader/data/quartz/data/vs_clockwork/worldgen/placed_feature/ore_wanderlite.json"
-hash = "f9b434d896b05d2fa5aa959830963281b433c9ba3c3c56a5d8c09bd5a752b1b2"
 
 [[files]]
 file = "config/openloader/data/quartz/data/waystones/recipes/attuned_shard.json"
@@ -199,11 +211,6 @@ hash = "9f5bb78e31415132d46b075d480425d18bf68ab1aab1566b616a458baf1be219"
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "c7ef8f8629620ae3d9d2da71aaf440624c40157a80c0eda4298c0aa60b7c76c0"
-metafile = true
-
-[[files]]
-file = "mods/almost-unified.pw.toml"
-hash = "59ad7e4771cb7b66f9477686a272b7d587e42c7ca869f0bf5314def6a50d6bc2"
 metafile = true
 
 [[files]]
@@ -554,6 +561,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "ab9393f8ffa86006454b2eef2d0276630baacb9644f48ee04c7e1abc5090f2d0"
 metafile = true
 
 [[files]]

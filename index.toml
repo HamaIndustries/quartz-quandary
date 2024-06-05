@@ -42,7 +42,7 @@ hash = "28b02370c0cc9d092734e9ba59936a200ce07f591f3acf48227d9b5fb402b9fc"
 
 [[files]]
 file = "config/openloader/data/quartz/data/dye_depot/recipes/amber_carpet.json"
-hash = "ec5b40f1692b4fa446732fd6289cc128060c2ee740bf0cff2ed7321f524b0a19"
+hash = "b766ef3289175fbc56347c70412f3422fe81f41b42b3079f41c4108a7362b266"
 
 [[files]]
 file = "config/openloader/data/quartz/data/dye_depot/recipes/amber_concrete_powder.json"
@@ -486,11 +486,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-weathering.pw.toml"
 hash = "bcc129101643d0643d4a52ec72bd7775ac8df5193b3becd625ed964f11c6abd8"
-metafile = true
-
-[[files]]
-file = "mods/interactive.pw.toml"
-hash = "3fc2c0c66bc9eea83561f2b2bafd4b2358dfef382bff4a3cbca5f15c72ca01e7"
 metafile = true
 
 [[files]]

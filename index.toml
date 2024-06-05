@@ -29,20 +29,60 @@ file = "config/openloader/data/player head drops v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "73c5bdbdc45dec651d32ad990d354914f6f3710cdd14899ba0776d425732a05a"
 
 [[files]]
-file = "config/openloader/data/quartz/data/eidolon/worldgen/configured_feature/lead_ore.json"
-hash = "ab599d1a535ec800907ac0a8ee012fff313b96cde74ac1552c2bcfa9110a0842"
+file = "config/openloader/data/quartz/data/dye_depot/recipes/amber_banner.json"
+hash = "e0fb992638a03a8450ad4857d058955b46c266134665cac7b32e6285ee4c09d1"
 
 [[files]]
-file = "config/openloader/data/quartz/data/eidolon/worldgen/configured_feature/silver_ore.json"
-hash = "581af0f0d50c3168cf39d331853ff94a99da5251b885d182974ad05b43e107f0"
+file = "config/openloader/data/quartz/data/dye_depot/recipes/amber_bed.json"
+hash = "5553e78449f474f128d6a6cbc54b4d4f4b4765a689cd1f04c6d9b8d26b3fde46"
 
 [[files]]
-file = "config/openloader/data/quartz/data/eidolon/worldgen/placed_feature/lead_ore_placed.json"
-hash = "ebf3b3d3f9df4cb531443ce4981492d8bc4dfc59ca24964f1652ef647737daed"
+file = "config/openloader/data/quartz/data/dye_depot/recipes/amber_candle.json"
+hash = "28b02370c0cc9d092734e9ba59936a200ce07f591f3acf48227d9b5fb402b9fc"
 
 [[files]]
-file = "config/openloader/data/quartz/data/eidolon/worldgen/placed_feature/silver_ore_placed.json"
-hash = "3fe411d06d79b655f38abedb0c4b478322c3fe3be04f359d35bb3a7b286b20ad"
+file = "config/openloader/data/quartz/data/dye_depot/recipes/amber_carpet.json"
+hash = "ec5b40f1692b4fa446732fd6289cc128060c2ee740bf0cff2ed7321f524b0a19"
+
+[[files]]
+file = "config/openloader/data/quartz/data/dye_depot/recipes/amber_concrete_powder.json"
+hash = "c770502d010efaa02c6b53a32bd2092e627e8c169ef35924f3843ea078ccbbb0"
+
+[[files]]
+file = "config/openloader/data/quartz/data/dye_depot/recipes/amber_glazed_terracotta.json"
+hash = "7ddd5d6595aba6ede46654c3bc7c2163f371b659080db262de03e47bdb891648"
+
+[[files]]
+file = "config/openloader/data/quartz/data/dye_depot/recipes/amber_stained_glass.json"
+hash = "880dd1969caa59094357a7e1626b8b985d6cbdfd534a7b2469bd601bceaa7ab0"
+
+[[files]]
+file = "config/openloader/data/quartz/data/dye_depot/recipes/amber_stained_glass_pane.json"
+hash = "23b98b1f6b4913791d9a7f4c6ea2c8d198f3e6188d0cfea603ace9a42ce9edf5"
+
+[[files]]
+file = "config/openloader/data/quartz/data/dye_depot/recipes/amber_stained_glass_pane_from_glass_pane.json"
+hash = "95b05a4d0ee96d92733b7b8b12d409c2833dbb33f1f6e9dbf4d754df517a4981"
+
+[[files]]
+file = "config/openloader/data/quartz/data/dye_depot/recipes/amber_terracotta.json"
+hash = "21e80dcc772a5f637511cead351807fc76eea962afadd7be788655e13797c366"
+
+[[files]]
+file = "config/openloader/data/quartz/data/dye_depot/recipes/dye_amber_bed.json"
+hash = "f08637c875dd2ea952676c995154af99e170ae4201f58f68c1a9b57a11400604"
+
+[[files]]
+file = "config/openloader/data/quartz/data/dye_depot/recipes/dye_amber_carpet.json"
+hash = "fd4bd48d6dc999250b96e4404f8438275f79de195018a9603269ab2afc9da94d"
+
+[[files]]
+file = "config/openloader/data/quartz/data/dye_depot/recipes/dye_amber_shulker_box.json"
+hash = "aa00109e2e7ea5c07cd61e416771af8e9f007e05b44017463185083610ab818c"
+
+[[files]]
+file = "config/openloader/data/quartz/data/dye_depot/recipes/dye_amber_wool.json"
+hash = "6da95e0d9247c37bbdedd87e7481751f97ca6e83903975ff08bdad995c6c4005"
 
 [[files]]
 file = "config/openloader/data/quartz/data/embers/forge/biome_modifier/add_golem_spawn.json"

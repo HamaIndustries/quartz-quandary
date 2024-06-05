@@ -389,11 +389,6 @@ hash = "e58257e27b7fce3399b38ca94a953728879d288757957521975ecc5044218fe0"
 metafile = true
 
 [[files]]
-file = "mods/eidolonrepraised.pw.toml"
-hash = "0baf808ce90008ca3d4108219f8c837c0da9709fedaf778ba3dd2986592e5da4"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "b6f44d5d64a041adcad7fd12f542d6dab5ba164f009650ef5b950d0287f7b252"
 metafile = true

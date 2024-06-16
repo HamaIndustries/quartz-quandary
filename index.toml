@@ -93,6 +93,14 @@ file = "config/openloader/data/quartz/data/embers/recipes/alchemy/wanderlite_cry
 hash = "60f7ed3242b0eb16226720af8d5fd3762211e139502cd7e1e31bf51c4bc859a0"
 
 [[files]]
+file = "config/openloader/data/quartz/data/immersive_weathering/block_growth/weeds.json"
+hash = "1dcf872ae481275c04d8be58b1a6c07a4e60d2962f930a9b57d4bb34ac868b7b"
+
+[[files]]
+file = "config/openloader/data/quartz/data/immersive_weathering/block_growth/weeds_spread.json"
+hash = "dc136d2ae9c0a197ea69fd47b4d8ece84abae96699d53a58750b253bb18953fa"
+
+[[files]]
 file = "config/openloader/data/quartz/data/vs_clockwork/forge/biome_modifier/wanderlite_end.json"
 hash = "a666cfb7ba23d415cd3192b79905ea5daa0f93f3302bfbd623400a13b618dbc7"
 

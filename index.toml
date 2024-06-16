@@ -253,6 +253,18 @@ file = "config/openloader/resources/ImprovedMoss1.20x.zip"
 hash = "c716e8ca1427d460c939bf25370598126b00985e6387ad3fb1a9811ab48a5c6c"
 
 [[files]]
+file = "config/openloader/resources/quartz/assets/minecraft/textures/painting/wither.png"
+hash = "3fa213ad8844cf0035e5e865bce4a3e633805ab381e4766be8e542d1ee85afed"
+
+[[files]]
+file = "config/openloader/resources/quartz/pack.mcmeta"
+hash = "a7e2a76f26c89b547450eef5cc74e8231db1b5ee5c83225243542922294ffd30"
+
+[[files]]
+file = "config/openloader/resources/quartz/pack.png"
+hash = "c2cf124d4033e33ffbb83f345b2400dfd06911cdd654af31c1fd0948fc780df2"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "9f5bb78e31415132d46b075d480425d18bf68ab1aab1566b616a458baf1be219"
 

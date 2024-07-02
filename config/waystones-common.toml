@@ -7,7 +7,7 @@
 	blocksPerXpLevel = 1000
 	#The minimum base xp cost (may be subceeded by multipliers defined below)
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-	minimumBaseXpCost = 0.0
+	minimumBaseXpCost = 1.0
 	#The maximum base xp cost (may be exceeded by multipliers defined below), set to 0 to disable all distance-based XP costs
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 	maximumBaseXpCost = 3.0

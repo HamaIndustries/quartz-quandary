@@ -249,6 +249,10 @@ file = "config/openloader/data/wandering trades v1.7.3 (MC 1.20-1.20.4).zip"
 hash = "e1a10579772adfa89a6e8b10694955e0ffd5f9086b35edee0e6884ce14312bca"
 
 [[files]]
+file = "config/openloader/resources/Experience Studs 1.8.zip"
+hash = "762f7b2a05a963890ceb52b5f6c16f6818af63d4f8eb42696aee203284a7f02e"
+
+[[files]]
 file = "config/openloader/resources/ImprovedMoss1.20x.zip"
 hash = "c716e8ca1427d460c939bf25370598126b00985e6387ad3fb1a9811ab48a5c6c"
 
@@ -266,7 +270,12 @@ hash = "c2cf124d4033e33ffbb83f345b2400dfd06911cdd654af31c1fd0948fc780df2"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "9f5bb78e31415132d46b075d480425d18bf68ab1aab1566b616a458baf1be219"
+hash = "2b5e94d5ec9e734ccdd64ada6893f2de5a94b26ebb23e16f6eda314ccdb1472b"
+
+[[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
+metafile = true
 
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
@@ -296,6 +305,11 @@ metafile = true
 [[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "0700d17f36cd6b256bc65d30c79068d2627faacc7d6a601140445740c8960743"
+metafile = true
+
+[[files]]
+file = "mods/automobility.pw.toml"
+hash = "0b50aa5e55bf2bea86e660f15167e96e2045ba3e355cbfad6006a221b1ad0a3e"
 metafile = true
 
 [[files]]
@@ -431,6 +445,11 @@ metafile = true
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "ccdd24b949ad8647f0963333614c46544cb7fa8d76deb3d6ab9887b680d03506"
+metafile = true
+
+[[files]]
+file = "mods/drogstyle.pw.toml"
+hash = "ea380036245aacad7cda5e0dd483e519d9d794dab1d59a6b50bc4af07dc68aee"
 metafile = true
 
 [[files]]
